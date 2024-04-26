@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "krypto6.10/1.0.0": {
+        "runtime": {
+          "krypto6.10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "krypto6.10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

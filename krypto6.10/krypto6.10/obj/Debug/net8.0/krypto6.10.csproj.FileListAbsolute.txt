@@ -1,0 +1,14 @@
+F:\szkola\stepik\krypto6.10\krypto6.10\bin\Debug\net8.0\krypto6.10.exe
+F:\szkola\stepik\krypto6.10\krypto6.10\bin\Debug\net8.0\krypto6.10.deps.json
+F:\szkola\stepik\krypto6.10\krypto6.10\bin\Debug\net8.0\krypto6.10.runtimeconfig.json
+F:\szkola\stepik\krypto6.10\krypto6.10\bin\Debug\net8.0\krypto6.10.dll
+F:\szkola\stepik\krypto6.10\krypto6.10\bin\Debug\net8.0\krypto6.10.pdb
+F:\szkola\stepik\krypto6.10\krypto6.10\obj\Debug\net8.0\krypto6.10.GeneratedMSBuildEditorConfig.editorconfig
+F:\szkola\stepik\krypto6.10\krypto6.10\obj\Debug\net8.0\krypto6.10.AssemblyInfoInputs.cache
+F:\szkola\stepik\krypto6.10\krypto6.10\obj\Debug\net8.0\krypto6.10.AssemblyInfo.cs
+F:\szkola\stepik\krypto6.10\krypto6.10\obj\Debug\net8.0\krypto6.10.csproj.CoreCompileInputs.cache
+F:\szkola\stepik\krypto6.10\krypto6.10\obj\Debug\net8.0\krypto6.10.dll
+F:\szkola\stepik\krypto6.10\krypto6.10\obj\Debug\net8.0\refint\krypto6.10.dll
+F:\szkola\stepik\krypto6.10\krypto6.10\obj\Debug\net8.0\krypto6.10.pdb
+F:\szkola\stepik\krypto6.10\krypto6.10\obj\Debug\net8.0\krypto6.10.genruntimeconfig.cache
+F:\szkola\stepik\krypto6.10\krypto6.10\obj\Debug\net8.0\ref\krypto6.10.dll
